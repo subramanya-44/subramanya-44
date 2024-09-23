@@ -13,7 +13,7 @@
 
 - 🕸️ my website [https://subramanya-44.github.io/subbu44/](https://subramanya-44.github.io/subbu44/)
 
-- My resume **https://fuchsia-deni-11.tiiny.site/**
+- My resume [click_https://subbu44.tiiny.site](https://subbu44.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
