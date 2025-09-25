@@ -7,13 +7,7 @@
 
 - 📫 How to reach me [tnsubramanya7@gmail.com](tnsubramanya7@gmail.com)
 
-- My react todo_list project **https://subbu44-react-todo.netlify.app/**
 
-- 👨🏽‍💻 my leet code profile [https://leetcode.com/tnsubramanya7/](https://leetcode.com/tnsubramanya7/)
-
-- 🕸️ my website [https://subramanya-44.github.io/subbu44/](https://subramanya-44.github.io/subbu44/)
-
-- My resume [click_https://subbu44.tiiny.site](https://subbu44.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
